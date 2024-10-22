@@ -1,6 +1,3 @@
-Here’s a detailed README for your GitHub repository, formatted in markdown with some emojis to make it engaging:
-
----
 
 # 📚 Islamic & Muslim YouTube Channels Collection
 
@@ -12,7 +9,7 @@ Welcome to the **Islamic & Muslim YouTube Channels Collection** repository! 🌙
 
 The purpose of this repository is to provide a **centralized, trustworthy, and diverse collection of Islamic YouTube channels** from all over the world. This collection covers:
 
-- 🕌 **Languages**: Channels in different languages such as English, Arabic, Urdu, French, Bahasa, and more.
+- 🕌 **Languages**: Channels in different languages such as English, Arabic, Urdu, and more.
 - 🌱 **For Kids**: Channels with educational content catered specifically to children.
 - 📖 **Topics**: Quran recitation, Tafsir, Islamic history, Hadith, Islamic lifestyle, Fiqh, etc.
 - 🎥 **Diverse Styles**: Lectures, animations, interviews, and more.
@@ -28,7 +25,8 @@ Our mission is to **make Islamic knowledge accessible** to all and to highlight 
 3. [For Kids](#for-kids)
 4. [Contribution Guidelines](#contribution-guidelines)
 5. [How to Contribute](#how-to-contribute)
-6. [License](#license)
+6. [Contributors](#contributors)
+7. [License](#license)
 
 ---
 
@@ -93,13 +91,27 @@ We welcome contributions from everyone! Here’s how you can contribute:
 
 ---
 
+## 🌟 Contributors
+
+This repository is powered by contributions from people just like you! 🤝  
+We are grateful to everyone who helps make this collection more comprehensive and diverse. 
+
+### Special Thanks To:
+
+- [@sohail-akhtar-git](https://github.com/sohail-akhtar-git) – For curating the initial list and managing contributions.
+- **Contributors**: Want to see your name here? Submit a pull request, and we’ll add you to the list of contributors!
+
+Want to contribute? Check out the [How to Contribute](#how-to-contribute) section above and start today!
+
+---
+
 ## 🔐 License
 
 This project is licensed under the **MIT License** — feel free to use and contribute, but always reference this repository when sharing!
 
 ---
 
-## 🌟 Join the Community
+## 🌍 Join the Community
 
 By contributing to this project, you're helping Muslims around the world access valuable, authentic Islamic content! Let’s work together to ensure that this collection is as comprehensive, accessible, and inclusive as possible.
 
@@ -107,4 +119,4 @@ By contributing to this project, you're helping Muslims around the world access 
 
 Thank you for your interest in this project. We look forward to your contributions! 🌍📺
 
----
+--- 
