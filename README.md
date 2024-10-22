@@ -30,7 +30,7 @@ Our mission is to **make Islamic knowledge accessible** to all and to highlight 
 
 ---
 
-## 🌐 Languages
+# 🌐 Languages
 
 We aim to gather channels from a wide variety of languages. Here are some languages we’ve categorized so far:
 
