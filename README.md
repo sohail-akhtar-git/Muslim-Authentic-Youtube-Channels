@@ -5,7 +5,7 @@ Welcome to the **Islamic & Muslim YouTube Channels Collection** repository! 🌙
 
 ---
 
-## 🎯 Project Purpose
+### 🎯 Project Purpose
 
 The purpose of this repository is to provide a **centralized, trustworthy, and diverse collection of Islamic YouTube channels** from all over the world. This collection covers:
 
@@ -30,7 +30,7 @@ Our mission is to **make Islamic knowledge accessible** to all and to highlight 
 
 ---
 
-# 🌐 Languages
+### 🌐 Languages
 
 We aim to gather channels from a wide variety of languages. Here are some languages we’ve categorized so far:
 
@@ -40,7 +40,7 @@ We aim to gather channels from a wide variety of languages. Here are some langua
 
 ---
 
-## 📚 Topics
+### 📚 Topics
 
 Our collection covers a range of Islamic topics, including but not limited to:
 
@@ -52,7 +52,7 @@ Our collection covers a range of Islamic topics, including but not limited to:
 
 ---
 
-## 🧒 For Kids
+### 🧒 For Kids
 
 It’s important for kids to learn about Islam in a fun and engaging way. We’ve curated channels that include:
 
@@ -62,7 +62,7 @@ It’s important for kids to learn about Islam in a fun and engaging way. We’v
 
 ---
 
-## 🤝 Contribution Guidelines
+### 🤝 Contribution Guidelines
 
 This repository thrives with your input! Feel free to contribute as much as you want. Here are some basic guidelines to follow:
 
@@ -72,7 +72,7 @@ This repository thrives with your input! Feel free to contribute as much as you 
 
 ---
 
-## 🛠️ How to Contribute
+### 🛠️ How to Contribute
 
 We welcome contributions from everyone! Here’s how you can contribute:
 
@@ -91,7 +91,7 @@ We welcome contributions from everyone! Here’s how you can contribute:
 
 ---
 
-## 🌟 Contributors
+### 🌟 Contributors
 
 This repository is powered by contributions from people just like you! 🤝  
 We are grateful to everyone who helps make this collection more comprehensive and diverse. 
@@ -105,13 +105,13 @@ Want to contribute? Check out the [How to Contribute](#how-to-contribute) sectio
 
 ---
 
-## 🔐 License
+### 🔐 License
 
 This project is licensed under the **MIT License** — feel free to use and contribute, but always reference this repository when sharing!
 
 ---
 
-## 🌍 Join the Community
+### 🌍 Join the Community
 
 By contributing to this project, you're helping Muslims around the world access valuable, authentic Islamic content! Let’s work together to ensure that this collection is as comprehensive, accessible, and inclusive as possible.
 
